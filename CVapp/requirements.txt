@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-docx
+python-dotenv
+pdfplumber
+requests
+beautifulsoup4
+openai
